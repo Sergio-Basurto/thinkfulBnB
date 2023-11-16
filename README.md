@@ -1,5 +1,3 @@
-# Thinkfulbnb
-
 Thinkfulbnb is a vacation rental website that allows people to rent out their homes to people who are seeking short-term accommodations in that locale. Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
 
 For this assignment, you will implement Thinkfulbnb's landing page in HTML & CSS.
@@ -111,4 +109,8 @@ Within the media query, write CSS to create the following designs for desktop:
 
 - The items in the "Want to Become a Thinkful Host?" section should be horizontally aligned. The paragraph content should be vertically centered and be as wide as each image item, like this:
 
-![Host desktop](./images/host-desktop.png)
+# ![Host desktop](./images/host-desktop.png)
+
+# thinkfulBnB
+
+> > > > > > > cd209d604f2e8fdca7ee0300e0593e6b471aedd1
